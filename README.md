@@ -2,7 +2,7 @@
 ## This is a TODO APP
 
 Welcome to my app
-Let's do this
+Ok!!
 
 Your turn Urbano
 
